@@ -11,5 +11,5 @@ google-cloud-core == 1.0.0
 spleeter==1.5.4
 librosa==0.8.0
 ffmpeg==1.3
-tensorflow==1.15.0
+tensorflow==2.5.3
 #firebase_admin
